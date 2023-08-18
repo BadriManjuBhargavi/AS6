@@ -1,0 +1,8 @@
+D:\DAYS-MSSQL\DAY 6\Assignment=6\Assignment=6\bin\Debug\Assignment=6.exe.config
+D:\DAYS-MSSQL\DAY 6\Assignment=6\Assignment=6\bin\Debug\Assignment=6.exe
+D:\DAYS-MSSQL\DAY 6\Assignment=6\Assignment=6\bin\Debug\Assignment=6.pdb
+D:\DAYS-MSSQL\DAY 6\Assignment=6\Assignment=6\obj\Debug\Assignment=6.csproj.AssemblyReference.cache
+D:\DAYS-MSSQL\DAY 6\Assignment=6\Assignment=6\obj\Debug\Assignment=6.csproj.SuggestedBindingRedirects.cache
+D:\DAYS-MSSQL\DAY 6\Assignment=6\Assignment=6\obj\Debug\Assignment=6.csproj.CoreCompileInputs.cache
+D:\DAYS-MSSQL\DAY 6\Assignment=6\Assignment=6\obj\Debug\Assignment=6.exe
+D:\DAYS-MSSQL\DAY 6\Assignment=6\Assignment=6\obj\Debug\Assignment=6.pdb
